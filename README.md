@@ -4,15 +4,6 @@ This repository contains my solutions for **EN3160 Assignment 1** from the Depar
 
 The assignment focuses on fundamental **digital image processing techniques**, including intensity transformations, histogram processing, color-space manipulation, spatial filtering, image interpolation, image segmentation, and edge-preserving smoothing.
 
-## 👨‍🎓 Student Information
-
-* **Name:** Prishmika H.W.N
-* **Index Number:** 230500N
-* **Course:** EN3160
-* **Assignment:** Assignment 1
-* **Department:** Electronic and Telecommunication Engineering
-* **University:** University of Moratuwa
-
 ## 📌 Topics Covered
 
 The assignment includes the following image processing techniques:
